@@ -178,7 +178,6 @@ header {
     }
     .content {
 
-        width: fit-content;
         margin-right: 1em;
         margin-left: 1em;    }
     
@@ -221,10 +220,10 @@ header {
     }
 
     .imageContainer.imageA {
-        margin-left: 22%;
+        margin-left: 15%;
         margin-right: 0;
     }
-    /* fix header on contact; fix margins in form field; */
+    
 
 }
 
