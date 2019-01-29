@@ -9,7 +9,7 @@ body {
 }
 
 .content {
-    background-color: #ffffff;
+    background-color: #444549;
     border: 1px solid #dddddd;
     margin: 50px auto;
     max-width:920px;
@@ -20,7 +20,7 @@ body {
 
 .content_heading {
     font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #4aaaa5;
+    color: #e07115;
     width: 100%;
     border-bottom: 3px solid #777777;
 }
@@ -37,7 +37,7 @@ h1 {
 }
 
 footer {
-    border-top: #4aaaa5 5px solid;
+    border-top: #e07115 5px solid;
     background-color: #666;
     height:25px;
     text-align: center;
@@ -64,8 +64,8 @@ header {
 }
 
 .header_name {
-    background-color: #4aaaa5;
-    color: #ffffff;
+    background-color: #e07115;
+    color: rgb(53, 61, 61);
     display: block;
     float: left;
     height: 38px;
@@ -84,7 +84,7 @@ header {
 
 .header_nav a {
     text-decoration: none;
-    color: #777777;
+    color: rgb(53, 61, 61);
 }
 
 .image_row {
@@ -112,8 +112,8 @@ header {
     bottom: 8px;
     width: 100%;
     text-align: center;
-    background: #4aaaa5;
-    color: #ffffff;
+    background: #e07115;
+    color: rgb(53, 61, 61);
 }
 
 .imageContainer .caption span {
@@ -220,7 +220,7 @@ header {
     }
 
     .imageContainer.imageA {
-        margin-left: 15%;
+        margin-left: 0;
         margin-right: 0;
     }
     
