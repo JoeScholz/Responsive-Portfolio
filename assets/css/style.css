@@ -182,7 +182,7 @@ header {
         margin-left: 1em;    }
     
     .header_wrap {
-        width: max-content;
+        width: 100%;
         margin: 0 auto;
     }
     
