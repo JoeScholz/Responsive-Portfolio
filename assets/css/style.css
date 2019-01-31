@@ -1,14 +1,14 @@
 
-
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-image: url(../images/stardust.png);
     margin: 0;
     padding: 0;
-    color: #777777;
+    color: antiquewhite;
 }
 
 .content {
+    font-size: 20px;
     background-color: #444549;
     border: 1px solid #dddddd;
     margin: 50px auto;
@@ -73,13 +73,10 @@ header {
     margin-left: 22%;
 }
 
-
-
 .header_nav {
     float: right;
     margin-right: 22%;
     margin-top: 1em;
-
 }
 
 .header_nav a {
@@ -89,7 +86,6 @@ header {
 
 .image_row {
     margin: 0px 0px 20px 0px;
-
 }
 
 .imageContainer {
@@ -97,7 +93,7 @@ header {
     display: inline-block;
     margin: 0px 20px 0px 0px;
     height: 150px;
-    width: 150px;
+    width: 250px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -128,6 +124,10 @@ header {
 .message_field{
     width: 100%;
     height: 100px;
+}
+
+#phoneEmail{
+    color: antiquewhite;
 }
 
 @media screen and (max-width: 980px) {
@@ -179,11 +179,13 @@ header {
     .content {
 
         margin-right: 1em;
-        margin-left: 1em;    }
+        margin-left: 1em;    
+    }
     
     .header_wrap {
         width: 100%;
         margin: 0 auto;
+        height: 78px;
     }
     
     .header_name {
