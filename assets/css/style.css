@@ -7,6 +7,10 @@ body {
     color: antiquewhite;
 }
 
+a {
+    color: antiquewhite;
+}
+
 .content {
     font-size: 20px;
     background-color: #444549;
